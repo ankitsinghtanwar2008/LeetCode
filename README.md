@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
