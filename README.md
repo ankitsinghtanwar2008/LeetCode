@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0066-plus-one) |
 ## Monotonic Stack
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
