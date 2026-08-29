@@ -2,25 +2,30 @@ import java.util.*;
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
+
         HashMap<String, List<String>> map = new HashMap<>();
 
         for (String word : strs) {
-            int[] count = new int[26];
-            for (char ch : word.toCharArray()) {
-                count[ch - 'a']++;
+
+            // Convert string to char array
+            char[] ch = word.toCharArray();
+
+            // Sort characters
+            Arrays.sort(ch);
+
+            // Convert back to string
+            String key = new String(ch);
+
+            // If key is not present, create new list
+            if (!map.containsKey(key)) {
+                map.put(key, new ArrayList<>());
             }
 
-            StringBuilder key = new StringBuilder();
-
-            for (int i = 0; i < 26; i++) {
-                key.append('#');
-                key.append(count[i]);
-            }
-            if (!map.containsKey(key.toString())) {
-                map.put(key.toString(), new ArrayList<>());
-            }
-            map.get(key.toString()).add(word);
+            // Add original word to that key
+            map.get(key).add(word);
         }
+
+        // Return all grouped anagrams
         return new ArrayList<>(map.values());
     }
 }
