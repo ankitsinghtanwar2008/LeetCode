@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
