@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
