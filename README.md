@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0258-add-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Quickselect
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
