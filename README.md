@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
