@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0258-add-digits) |
+| [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
+| [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
