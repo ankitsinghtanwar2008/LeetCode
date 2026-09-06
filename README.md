@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0035-search-insert-position) |
+| [0400-nth-digit](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0400-nth-digit) |
 ## Monotonic Stack
 |  |
 | ------- |
