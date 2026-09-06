@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0258-add-digits) |
 ## Monotonic Stack
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
