@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0400-nth-digit) |
 | [0504-base-7](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
+| [0519-random-flip-matrix](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0519-random-flip-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
 | [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0519-random-flip-matrix](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0519-random-flip-matrix) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -200,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
+| [0519-random-flip-matrix](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0519-random-flip-matrix) |
 ## Randomized
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
+| [0519-random-flip-matrix](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0519-random-flip-matrix) |
 ## Greedy
 |  |
 | ------- |
