@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
+| [0679-24-game](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0679-24-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0519-random-flip-matrix) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0564-find-the-closest-palindrome) |
+| [0679-24-game](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0679-24-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
