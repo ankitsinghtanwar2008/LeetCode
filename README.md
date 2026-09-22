@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0400-nth-digit) |
 | [0483-smallest-good-base](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0519-random-flip-matrix](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0519-random-flip-matrix) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
