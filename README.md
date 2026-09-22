@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
 | [0679-24-game](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0679-24-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
 ## Breadth-First Search
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 ## Backtracking
 |  |
 | ------- |
