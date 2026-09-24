@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0504-base-7) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0389-find-the-difference) |
 ## Design
 |  |
 | ------- |
