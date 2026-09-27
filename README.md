@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0495-teemo-attacking) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 ## Math
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
@@ -260,12 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1323-maximum-69-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0279-perfect-squares) |
+| [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
