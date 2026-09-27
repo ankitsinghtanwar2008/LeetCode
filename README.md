@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
 | [0679-24-game](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0679-24-game) |
+| [1095-find-in-mountain-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 | [0732-my-calendar-iii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0887-super-egg-drop](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0887-super-egg-drop) |
+| [1095-find-in-mountain-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -345,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0175-combine-two-tables) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
