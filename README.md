@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
 | [0679-24-game](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0679-24-game) |
 | [1095-find-in-mountain-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0887-super-egg-drop](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0887-super-egg-drop) |
 | [1095-find-in-mountain-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
 ## Math
 |  |
 | ------- |
@@ -185,11 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
+| [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 | [0732-my-calendar-iii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0732-my-calendar-iii) |
+| [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0732-my-calendar-iii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0732-my-calendar-iii) |
+| [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -355,4 +360,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
 <!---LeetCode Topics End-->
