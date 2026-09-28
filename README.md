@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0279-perfect-squares) |
 | [0398-random-pick-index](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0400-nth-digit) |
+| [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
 | [0483-smallest-good-base](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0483-smallest-good-base) |
 | [0504-base-7](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0389-find-the-difference) |
+| [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
 ## Design
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0139-word-break) |
+| [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 ## Backtracking
@@ -368,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
