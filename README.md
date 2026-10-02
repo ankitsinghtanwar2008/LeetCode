@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0732-my-calendar-iii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0732-my-calendar-iii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
