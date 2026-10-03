@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0472-concatenated-words) |
 | [0504-base-7](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0447-number-of-boomerangs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0472-concatenated-words](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0495-teemo-attacking) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0389-find-the-difference) |
+| [0472-concatenated-words](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0506-relative-ranks) |
 ## Recursion
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
+| [0472-concatenated-words](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0139-word-break) |
+| [0472-concatenated-words](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0472-concatenated-words) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -405,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
