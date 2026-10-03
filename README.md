@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0472-concatenated-words) |
