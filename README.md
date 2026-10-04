@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1323-maximum-69-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0553-optimal-division) |
+| [0678-valid-parenthesis-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0887-super-egg-drop](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0887-super-egg-drop) |
 ## Breadth-First Search
 |  |
