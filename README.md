@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0443-string-compression) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0679-24-game) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1307-verbal-arithmetic-puzzle) |
 ## Bézout's Lemma
