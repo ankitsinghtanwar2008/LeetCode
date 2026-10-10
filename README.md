@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0506-relative-ranks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0887-super-egg-drop) |
 | [1095-find-in-mountain-array](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1157-online-majority-element-in-subarray](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1157-online-majority-element-in-subarray) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0506-relative-ranks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1323-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
