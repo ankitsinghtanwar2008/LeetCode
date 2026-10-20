@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Queue
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1323-maximum-69-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3886-sum-of-sortable-integers](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
