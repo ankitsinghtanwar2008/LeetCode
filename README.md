@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0464-can-i-win) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0887-super-egg-drop](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0887-super-egg-drop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
