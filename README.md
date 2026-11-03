@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3665-twisted-mirror-path-count](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1323-maximum-69-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Stack
 |  |
