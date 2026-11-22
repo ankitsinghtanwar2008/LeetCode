@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ankitsinghtanwar2008/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
